@@ -24,5 +24,9 @@ Movie Topic Modeling based on NLP and Recommendation System Design
 * MSE Curves analysis and parameter tuning
 * ROC Curves Analysis
 
+### Recommendation based on AutoEncoder-decoder Model
+
+* Details in README
+
 
 
