@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Xijia_Chen_hw2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Xijia_Chen_hw2_jar</output-path>
+    <root id="archive" name="hw2.jar">
+      <element id="module-output" name="hw2" />
+    </root>
+  </artifact>
+</component>

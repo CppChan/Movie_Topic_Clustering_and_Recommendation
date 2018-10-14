@@ -1,0 +1,66 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="hw2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hw2_jar</output-path>
+    <root id="archive" name="hw2.jar">
+      <element id="module-output" name="hw2" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/snappy-0.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/scalap-2.11.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/JavaEWAH-0.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/javax.inject-1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/jaxb-api-2.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/snakeyaml-1.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/javolution-5.5.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/slf4j-api-1.7.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/hadoop-auth-2.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/hadoop-hdfs-2.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/hadoop-client-2.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/hadoop-common-2.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/java-xmlbuilder-1.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/javassist-3.18.1-GA.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/snappy-java-1.1.2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/scala-library-2.11.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/scala-reflect-2.11.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/scala-xml_2.11-1.0.5.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/shapeless_2.11-2.3.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/slf4j-log4j12-1.7.16.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/spark-sql_2.11-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/hadoop-yarn-api-2.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/javax.ws.rs-api-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/scala-compiler-2.11.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/spark-core_2.11-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/spark-hive_2.11-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/spark-repl_2.11-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/spark-tags_2.11-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/spark-yarn_2.11-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/javax.inject-2.4.0-b34.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/spark-mesos_2.11-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/spark-mllib_2.11-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/javax.servlet-api-3.1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/spark-graphx_2.11-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/spark-sketch_2.11-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/spark-unsafe_2.11-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/hadoop-annotations-2.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/hadoop-yarn-client-2.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/hadoop-yarn-common-2.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/javax.annotation-api-1.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/spark-kvstore_2.11-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/spark-catalyst_2.11-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/spark-launcher_2.11-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/spark-streaming_2.11-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/spark-kubernetes_2.11-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/spark-mllib-local_2.11-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/hadoop-yarn-server-common-2.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/spark-network-common_2.11-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/spark-network-shuffle_2.11-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/hadoop-mapreduce-client-app-2.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/hadoop-mapreduce-client-core-2.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/hadoop-yarn-server-web-proxy-2.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/spark-hive-thriftserver_2.11-2.3.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/scala-parser-combinators_2.11-1.0.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/hadoop-mapreduce-client-common-2.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/hadoop-mapreduce-client-shuffle-2.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../../codingTools/spark-2.3.1-bin-hadoop2.7/jars/hadoop-mapreduce-client-jobclient-2.7.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
