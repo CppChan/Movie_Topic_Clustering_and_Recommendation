@@ -16,7 +16,7 @@ Movie Topic Modeling based on NLP and Recommendation System Design
 * MSE Curves analysis and parameter tuning
 
 ##### Local Collaborative Filtering
-* Collaborative Filtering Algorithm
+* ALS Collaborative Filtering Algorithm
 * MSE Curves analysis and parameter tuning
 * ROC Curves Analysis
 
