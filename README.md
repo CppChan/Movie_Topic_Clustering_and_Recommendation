@@ -7,7 +7,7 @@ Movie Topic Modeling based on NLP and Recommendation System Design
 * Trained unsupervised learning models including K-Means Clustering and Latent Dirichlet Allocation to implement Latent Topic Clustering
 * Visualized clustering results by dimensionality reduction using Principal Component Analysis.
 
-### Recommendation
+### Recommendation_Pyspark
 
 ##### Spark OLAP analysis 
 * Analysis of the movie rating dataset and information extraction
@@ -19,6 +19,11 @@ Movie Topic Modeling based on NLP and Recommendation System Design
 * Collaborative Filtering Algorithm
 * MSE Curves analysis and parameter tuning
 * ROC Curves Analysis
+
+### Recommendation_Spark_Scala
+* encoding or raw rating data
+* itembased collaborative filtering algorithm
+* tune parameter for lower RMSE
 
 ### Recommendation based on AutoEncoder-decoder Model
 
